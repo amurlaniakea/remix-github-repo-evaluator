@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GitHub Repo Evaluator",
+  "description": "Evalúa la estructura de dependencias, legibilidad, tests y errores de cualquier repositorio de GitHub usando IA y proporciona una puntuación y reporte detallado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
